@@ -5,4 +5,4 @@ angle=abs(ah-am)
 if angle>180:
     angle=360-angle
 
-print(angle, "is the smaller angle")    
+print(angle, "is the smaller angle")
